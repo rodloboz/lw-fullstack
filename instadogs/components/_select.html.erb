@@ -1,0 +1,8 @@
+<div class="container">
+  <div class="row">
+    <h4>Select breed:</h4>
+    <%= select_tag "breed", options_for_select(
+      @breeds),
+      class: 'select2' %>
+  </div>
+</div>

@@ -1,0 +1,36 @@
+.banner {
+  background-image: linear-gradient(125deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.6) 80%), asset-url('kogi.jpg');
+  background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  color: white;
+}
+
+.banner-content {
+  width: 60%;
+}
+
+.banner h1 {
+  text-transform: none;
+  font-family: $brand-font;
+  font-size: 70px;
+  font-weight: 500;
+  line-height: 70px;
+  text-shadow: 0 2px 3px rgba(0,0,0,.4);
+}
+
+.banner p {
+  font-size: 25px;
+  font-weight: lighter;
+  color: white;
+  margin-bottom: 30px;
+  text-shadow: 0 2px 3px rgba(0,0,0,.4);
+}
+
+#js-typed-text {
+  color: $blue;
+  font-weight: bold;
+}
