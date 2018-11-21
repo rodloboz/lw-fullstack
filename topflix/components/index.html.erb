@@ -1,0 +1,13 @@
+<div class="container">
+  <div class="row">
+    <div class="col-sm-8 col-sm-offset-2">
+      <div id="movies" data-query="<%= @query %>">
+        <% @movies.each do |movie| %>
+          <h4 class="context"><%= movie.title %></h4>
+          <h6 class="context">Director: <%= movie.director.full_name %></h6>
+          <p class="context"><%= movie.syllabus %></p>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</div>
