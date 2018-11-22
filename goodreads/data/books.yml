@@ -31,11 +31,6 @@ books:
     slug: fiesta
 
 reviews:
-  - rating:
-    content: |
-      <p></p><p></p>
-    book_slug:
-    user_slug:
   - rating: 3
     content: |
       <p>Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream by Hunter S. Thompson is profane, violent, disturbing, irreverent, and yet immaculately compelling.</p><p>The reader is as entranced as a driver witnessing a bizarre car wreck, horrified but unable to turn away.</p>
