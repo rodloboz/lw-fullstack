@@ -1,0 +1,124 @@
+books:
+  - title: "Fear And Loathing in Las Vegas"
+    author_slug: thompson
+    description: |
+      <p><em>Fear and Loathing in Las Vegas</em> is the best chronicle of drug-soaked, addle-brained, rollicking good times ever committed to the printed page. It is also the tale of a long weekend road trip that has gone down in the annals of American pop culture as one of the strangest journeys ever undertaken.<p>
+    image_url: http://res.cloudinary.com/opratododia/image/upload/c_scale,w_150/v1542860682/goodreads/loathing.jpg
+    slug: loathing
+  - title: "On the Road"
+    author_slug: kerouac
+    description: |
+      <p>When Jack Kerouac’s On the Road first appeared in 1957, readers instantly felt the beat of a new literary rhythm. A fictionalised account of his own journeys across America with his friend Neal Cassady, Kerouac’s beatnik odyssey captured the soul of a generation and changed the landscape of American fiction for ever.</p><p>With its smoky, jazz-filled atmosphere and its restless, yearning spirit of adventure, On the Road left its mark on the culture of the late 20th century, influencing countless books, films and songs. Kerouac’s prose is remarkable both for its colloquial swing and for the pure lyricism inspired by the American landscape – ‘the backroads, the black-tar roads that curve among the mournful rivers like Susquehanna, Monongahela, old Potomac and Monocacy’. This Folio Society edition is illustrated with evocative photographs of Kerouac and the landscapes of 1950s America. Now acknowledged as a modern classic, On the Road remains a thrilling and poignant story of the road less travelled.</p>
+    image_url: http://res.cloudinary.com/opratododia/image/upload/c_scale,w_150/v1542860680/goodreads/ontheroad.jpg
+    slug: on-the-road
+  - title: "Fight Club"
+    author_slug: palahniuk
+    description: |
+      <p>Chuck Palahniuk showed himself to be his generation’s most visionary satirist in this, his first book. Fight Club’s estranged narrator leaves his lackluster job when he comes under the thrall of Tyler Durden, an enigmatic young man who holds secret after-hours boxing matches in the basement of bars. There, two men fight "as long as they have to." This is a gloriously original work that exposes the darkness at the core of our modern world.<p>
+    image_url: http://res.cloudinary.com/opratododia/image/upload/c_scale,w_150/v1542860680/goodreads/fightclub.jpg
+    slug: fight-club
+  - title: "The Wind-Up Bird Chronicle"
+    author_slug: murakami
+    description: |
+      <p>Japan's most highly regarded novelist now vaults into the first ranks of international fiction writers with this heroically imaginative novel, which is at once a detective story, an account of a disintegrating marriage, and an excavation of the buried secrets of World War II.<p><p>In a Tokyo suburb a young man named Toru Okada searches for his wife's missing cat. Soon he finds himself looking for his wife as well in a netherworld that lies beneath the placid surface of Tokyo. As these searches intersect, Okada encounters a bizarre group of allies and antagonists: a psychic prostitute; a malevolent yet mediagenic politician; a cheerfully morbid sixteen-year-old-girl; and an aging war veteran who has been permanently changed by the hideous things he witnessed during Japan's forgotten campaign in Manchuria.</p>
+    image_url: http://res.cloudinary.com/opratododia/image/upload/c_scale,w_150/v1542860680/goodreads/murakami.jpg
+    slug: wind-up-bird
+  - title: "The Sun Also Rises"
+    author_slug: hemingway
+    description: |
+      <p>The quintessential novel of the Lost Generation, <em>The Sun Also Rises</em> is one of Ernest Hemingway's masterpieces, and a classic example of his spare but powerful writing style. A poignant look at the disillusionment and angst of the post-World War I generation, the novel introduces two of Hemingway's most unforgettable characters: Jake Barnes and Lady Brett Ashley. The story follows the flamboyant Brett and the hapless Jake as they journey from the wild nightlife of 1920s Paris to the brutal bullfighting rings of Spain with a motley group of expatriates. It is an age of moral bankruptcy, spiritual dissolution, unrealized love, and vanishing illusions. First published in 1926, <em>The Sun Also Rises</em> helped to establish Hemingway as one of the greatest writers of the twentieth century.<p>
+    image_url: http://res.cloudinary.com/opratododia/image/upload/c_scale,w_150/v1542860682/goodreads/fiesta.jpg
+    slug: fiesta
+
+reviews:
+  - rating:
+    content: |
+      <p></p><p></p>
+    book_slug:
+    user_slug:
+  - rating: 3
+    content: |
+      <p>Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream by Hunter S. Thompson is profane, violent, disturbing, irreverent, and yet immaculately compelling.</p><p>The reader is as entranced as a driver witnessing a bizarre car wreck, horrified but unable to turn away.</p>
+    book_slug: loathing
+    user_slug: elle
+  - rating: 5
+    content: |
+      <p>Whoop whoop, yeehaw, arrrrghflurszlegastle, shit shit shit drugs make you crazy. Yes, yes they do. So the first question is exactly how many drugs did Hunter S Thompson actually imbibe when writing this book.</p><p>If you start giving me some bullshit about this book ain't there, I'm gonna shoot you in the head then and there. Hey, look, I'm talking to you, motherfucker. You listen: this nigga Thompson wrote one helluva book. You understand?</p>
+    book_slug: loathing
+    user_slug: badmotherfucker
+  - rating: 5
+    content: |
+      <p>I was in school at the Merchant Marine Academy. I was nineteen years old; a Georgia boy. I had no business being there. The deal at the academy is that you do six months of your Sophomore year and six months of your Junior years at sea. At least that’s how it used to be. I hear they are on trimesters now. Who knows? Anyway, it was this sea year that attracted me to the school in the first place.</p><p>So I’m nineteen, heavy boozer, balls to the walls so to speak. I was coming unhinged having to deal with the life of being me all hemmed up in Navy uniform and creating little or no art. I didn’t realize the importance of the art thing until later in life. I was just running a muck really, with no balance whatsoever.</p><p>Anyway, I wanted to be Dean. Who wouldn’t? Dean Moriarty. No limits, no curfew. Bullet proof and on the run, Dean was that guy who was always aware of what went on late at night after I had already cashed in my chips, and somehow by virtue of that had a handle on everything all the time. He’s always cool, no reason not to be when the bases are loaded and Dean’s at bat. We all know he’s gonna knock it out of the park, and don’t bother hitting on the prettiest girl cause he’s gonna knock that out of the park as well. I didn’t have a good idea of what Neal Cassidy looked like at the time, so to me Dean looked like Greg Harper; rough, but with an inner beauty that outshines his scars and imperfections.</p>
+    book_slug: on-the-road
+    user_slug: tyler
+  - rating: 4
+    content: |
+      <p>I read On The Road when I was 16. When I was 16, I was so depressed. I went to a high school that had a moat around it and a seige mentality. On The Road made me not depressed. In fact ... it made me want to hitchhike, hop freight trains, and more importantly to write. If I were still 16 I would give On The Road 5 stars. I would say, go! Go! Read this book and be mad for life, delirious, exploding outward into the big uncovered road! Consume vanilla ice cream and apple pie. Drink black coffee. Fuck a million times on a small bed and smoke cigarettes all night for a thousand years! Go!</p>
+    book_slug: on-the-road
+    user_slug: lebowski
+  - rating: 4
+    content: |
+      <p>The other day I was talking to someone and he said, “Well, I’m no pie expert . . . Wait! No! I am a pie expert. I am an expert at pie!”</p><p>Another person asked, “How did you become a pie expert?”</p><p>“One time I ate only pie for an entire week. I was driving across the country with my buddies, and we decided to eat only pie.”</p><p>“Like Jack Kerouac in On the Road!” I said.</p>
+    book_slug: on-the-road
+    user_slug: bride
+  - rating: 5
+    content: |
+      <p>Only like 10 books or so in this world could be made of actual MAGIC. They are entities so far out of this world they indeed resemble pariahs, belonging to their own orbit & following their own sets of rules that it is your utmost privilege to read them, to find out for yourself why it is that they stick to the collective psyche of an entire literati!</p>
+    book_slug: wind-up-bird
+    user_slug: hattori
+
+authors:
+  - slug: thompson
+    first_name: Hunter
+    last_name: S. Thompson
+  - slug: kerouac
+    first_name: Jack
+    last_name: Kerouac
+  - slug: palahniuk
+    first_name: Chuck
+    last_name: Palahniuk
+  - slug: murakami
+    first_name: Haruki
+    last_name: Murakami
+  - slug: hemingway
+    first_name: Ernest
+    last_name: Hemingway
+
+users:
+  - slug: tyler
+    first_name: Tyler
+    last_name: Durden
+    email: tyler.durden@gmail.com
+    password: password
+    avatar_url: http://res.cloudinary.com/flyradical/image/upload/v1498509292/development/avatars/tyler.jpg
+  - slug: lebowski
+    first_name: Jeff
+    last_name: Lebowski
+    email: big.lebowski@gmail.com
+    password: password
+    avatar_url: http://res.cloudinary.com/flyradical/image/upload/v1498509290/development/avatars/lebowski.jpg
+  - slug: elle
+    first_name: Elle
+    last_name: Driver
+    email: mountain.snake@gmail.com
+    password: password
+    avatar_url: http://res.cloudinary.com/flyradical/image/upload/v1498509290/development/avatars/elle.jpg
+  - slug: bride
+    first_name: Beatrix
+    last_name: Kiddo
+    email: thebride@gmail.com
+    password: password
+    avatar_url: http://res.cloudinary.com/flyradical/image/upload/v1498509291/development/avatars/The_Bride.jpg
+  - slug: hattori
+    first_name: Hattori
+    last_name: Hanzo
+    email: swordmaker@gmail.com
+    password: password
+    avatar_url: http://res.cloudinary.com/flyradical/image/upload/v1498509290/development/avatars/hanzo.gif
+  - slug: badmotherfucker
+    first_name: Jules
+    last_name: Winnfield
+    email: badmotherfucker@gmail.com
+    password: password
+    avatar_url: http://res.cloudinary.com/flyradical/image/upload/v1498509918/development/avatars/latest.jpg
+
