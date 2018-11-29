@@ -25,18 +25,17 @@ document.addEventListener("DOMContentLoaded", function(event) {
     const form = document.querySelector('form');
     form.addEventListener('submit', (event) => {
       event.preventDefault();
-      const todo = form.querySelector('#newitem').value;
+      const todo = document.getElementById('newitem').value;
       if (todo != '') {
         form.reset();
         todos.push(todo);
-        renderTodo(todo);
+        renderTodo(todo, todos.length - 1);
         addDeleteEvent(document.querySelector('#todos ul').firstChild);
       }
     });
 
     const todoItems = document.querySelectorAll('#todos ul li');
     todoItems.forEach((item) => {
-      const deleteButton = item.querySelector('button');
-      deleteButton.addEventListener('click', (event) => deleteTodo(event.target.id));
+      addDeleteEvent(item);
     })
 });
