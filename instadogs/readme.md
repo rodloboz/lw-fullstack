@@ -6,11 +6,11 @@ svn export https://github.com/rodloboz/lw-fullstack/trunk/instadogs/stylesheets 
 
 # User Stories
 
-As a user I can see all dogs
-As a user I can see details about one dog
-As a user I can add a dog
-As a user I can update a dog
-As a user I can delete a dog
+* As a user I can see all dogs
+* As a user I can see details about one dog
+* As a user I can add a dog
+* As a user I can update a dog
+* As a user I can delete a dog
 
 # Setup
 
