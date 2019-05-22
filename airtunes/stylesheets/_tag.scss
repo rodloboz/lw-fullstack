@@ -1,0 +1,14 @@
+.artist-tags {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.tag {
+  background: $blue;
+  padding: 5px 15px;
+  border-radius: 10px;
+  color: white;
+  font-weight: lightest;
+  font-size: 10px;
+  margin-right: 10px;
+}
