@@ -1,0 +1,8 @@
+<div class="col-xs-12 col-sm-4">
+  <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('<%= album.image_url %>');">
+    <div class="card-description">
+      <h2><%= album.title %></h2>
+    </div>
+    <%= link_to "+", album_path(album), method: :delete, data: { confirm: "Are you sure?" }, class: "card-remove-link" %>
+  </div>
+</div>

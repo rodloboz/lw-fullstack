@@ -4,26 +4,16 @@
   </div>
   <div class="artist-menu">
     <h1><%= @artist.name %></h1>
-    <%= link_to "Artists", artists_path  %> |
-    <%= link_to "Add Record", new_artist_record_path(@artist) %>
+    <%= link_to "Artists", root_path  %> |
+    <%= link_to "Add Album", "#" %>
   </div>
 </div>
 
-<div id="records">
+<div id="albums">
   <h2>Releases</h2>
-  <% if @artist.records.any? %>
+  <% if @artist.albums.any? %>
     <div class="container-fluid">
       <div class="row">
-        <% @artist.records.each do |record| %>
-          <div class="col-xs-12 col-sm-4">
-            <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('<%= record.image_url %>');">
-              <div class="card-description">
-                <h2><%= record.title %></h2>
-              </div>
-              <%= link_to "+", record_path(record), method: :delete, data: { confirm: "Are you sure?" }, class: "card-remove-link" %>
-            </div>
-          </div>
-        <% end %>
       </div>
     </div>
   <% else %>
