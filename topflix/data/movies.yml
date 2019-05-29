@@ -7,7 +7,7 @@ movies:
     rating: 7.4
     cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/sup1978.jpg
     video_src: https://www.youtube.com/embed/3y9qKMLjBfc
-    syllabus: |
+    synopsis: |
       An alien orphan is sent from his dying planet to Earth,
       where he grows up to become his adoptive home's first and greatest superhero.
   - title: "Batman v Superman: Dawn of Justice"
@@ -18,7 +18,7 @@ movies:
     rating: 6.5
     cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/batmandawn.jpg
     video_src: https://www.youtube.com/embed/0WWzgGyAH6Y
-    syllabus: |
+    synopsis: |
       Fearing the actions of a god-like Super Hero left unchecked,
       Gotham City's own formidable, forceful vigilante takes on Metropolis'
       most revered, modern-day savior, while the world wrestles with what
@@ -33,7 +33,7 @@ movies:
     rating: 6.1
     cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/supreturns.jpg
     video_src: https://www.youtube.com/embed/bRqAUqAFhNw
-    syllabus: |
+    synopsis: |
       Superman reappears after a long absence, but is challenged by an old foe
       who uses Kryptonian technology for world domination.
   - title: "Batman Begins"
@@ -44,7 +44,7 @@ movies:
     rating: 8.2
     cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/batbegins.jpg
     video_src: https://www.youtube.com/embed/neY2xVmOfUM
-    syllabus: |
+    synopsis: |
       After training with his mentor, Batman begins his war on crime to free the
       crime-ridden Gotham City from corruption that the Scarecrow and the League
       of Shadows have cast upon it.
@@ -56,7 +56,7 @@ movies:
     rating: 9.0
     cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/dark-knight.jpg
     video_src: https://www.youtube.com/embed/EXeTwQWrcwY
-    syllabus: |
+    synopsis: |
       When the menace known as the Joker wreaks havoc and chaos on the people of Gotham,
       the caped crusader must come to terms with one of the greatest psychological
       tests of his ability to fight injustice.
@@ -68,7 +68,7 @@ movies:
     rating: 8.4
     cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/dknight-rises.jpg
     video_src: https://www.youtube.com/embed/GokKUqLcvD8
-    syllabus: |
+    synopsis: |
       Eight years after the Joker's reign of anarchy, the Dark Knight is
       forced to return from his imposed exile to save Gotham City from the brutal
       guerrilla terrorist Bane with the help of the enigmatic Catwoman.
@@ -81,7 +81,7 @@ series:
     rating: 7.8
     cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/advsuperman.jpg
     video_src: https://www.youtube.com/embed/5HAhQGha6hA
-    syllabus: |
+    synopsis: |
       The Man of Steel fights crime with help from his friends at the Daily Planet.
   - title: "Lois & Clark: The New Adventures of Superman"
     year: 1993
@@ -90,7 +90,7 @@ series:
     rating: 6.8
     cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/loisandclark.jpg
     video_src: https://www.youtube.com/embed/zP6I1kDlpE8
-    syllabus: |
+    synopsis: |
       In addition to fighting evil, Superman has a burning romance with Lois Lane
       in both his identities.
 
