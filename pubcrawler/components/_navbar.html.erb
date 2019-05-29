@@ -1,0 +1,54 @@
+<div id="navbar-wagon" class="navbar-wagon navbar-wagon-fixed">
+  <!-- Logo -->
+  <a href="/" class="navbar-wagon-brand">
+    <%= image_tag "logo.png", alt: "Le Wagon"%>
+  </a>
+
+  <!-- Right Navigation -->
+  <div class="navbar-wagon-right hidden-xs hidden-sm">
+    <%= link_to 'Pubs', pubs_path, class: "navbar-wagon-item navbar-wagon-link" %>
+    <%= link_to 'Crawls', crawls_path, class: "navbar-wagon-item navbar-wagon-link" %>
+
+    <% if user_signed_in? %>
+
+    <!-- Profile picture with dropdown list -->
+    <div class="navbar-wagon-item">
+      <div class="dropdown">
+        <img src="https://kitt.lewagon.com/placeholder/users/ssaunier" class="avatar dropdown-toggle" id="navbar-wagon-menu" data-toggle="dropdown">
+        <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
+          <% if current_user.admin? %>
+            <li>
+              <%= link_to 'New Crawl', new_crawl_path, class: "navbar-wagon-item navbar-wagon-link", remote: true %>
+            </li>
+            <li>
+              <%= link_to 'New Pub', new_pub_path, class: "navbar-wagon-item navbar-wagon-link", remote: true %>
+            </li>
+            <hr>
+          <% end %>
+          <li><a href="#">Dashboard</a></li>
+          <li>
+            <%= link_to destroy_user_session_path, method: :delete do %>
+              <%= t(".sign_out", default: "Log out") %>
+            <% end %>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <% else %>
+      <%= link_to "Sign Up", new_user_registration_path, class: "navbar-wagon-item navbar-wagon-link", remote: true %>
+      <%= link_to "Log In", new_user_session_path, class: "navbar-wagon-item navbar-wagon-link", remote: true %>
+    <% end %>
+  </div>
+
+  <!-- Dropdown appearing on mobile only -->
+  <div class="navbar-wagon-item hidden-md hidden-lg">
+    <div class="dropdown">
+      <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
+      <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
+        <li><a href="#">Host</a></li>
+        <li><a href="#">Trips</a></li>
+        <li><a href="#">Messagese</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
