@@ -5,6 +5,7 @@ movies:
     theme_color: rgba(172,12,38,1)
     genre: Action, Adventure, Drama, Sci-Fi
     rating: 7.4
+    cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/sup1978.jpg
     syllabus: |
       An alien orphan is sent from his dying planet to Earth,
       where he grows up to become his adoptive home's first and greatest superhero.
@@ -14,6 +15,7 @@ movies:
     theme_color: rgba(74,133,180,1)
     genre: Action, Adventure, Fantasy, Sci-Fi
     rating: 6.5
+    cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/batmandawn.jpg
     syllabus: |
       Fearing the actions of a god-like Super Hero left unchecked,
       Gotham City's own formidable, forceful vigilante takes on Metropolis'
@@ -27,6 +29,7 @@ movies:
     theme_color: rgba(81,138,175,1)
     genre: Action, Adventure, Sci-Fi
     rating: 6.1
+    cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/supreturns.jpg
     syllabus: |
       Superman reappears after a long absence, but is challenged by an old foe
       who uses Kryptonian technology for world domination.
@@ -36,6 +39,7 @@ movies:
     theme_color: rgba(227,117,56,1)
     genre: Action, Adventure
     rating: 8.2
+    cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/batbegins.jpg
     syllabus: |
       After training with his mentor, Batman begins his war on crime to free the
       crime-ridden Gotham City from corruption that the Scarecrow and the League
@@ -46,6 +50,7 @@ movies:
     theme_color: rgba(78,98,171,1)
     genre:  Action, Crime, Drama, Thriller
     rating: 9.0
+    cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/dark-knight.jpg
     syllabus: |
       When the menace known as the Joker wreaks havoc and chaos on the people of Gotham,
       the caped crusader must come to terms with one of the greatest psychological
@@ -56,6 +61,7 @@ movies:
     theme_color: rgba(98,100,48,1)
     genre: Action, Thriller
     rating: 8.4
+    cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/dknight-rises.jpg
     syllabus: |
       Eight years after the Joker's reign of anarchy, the Dark Knight is
       forced to return from his imposed exile to save Gotham City from the brutal
@@ -67,6 +73,7 @@ series:
     theme_color: rgba(171,172,190,1)
     genre: Action, Adventure, Crime, Family, Sci-Fi
     rating: 7.8
+    cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/advsuperman.jpg
     syllabus: |
       The Man of Steel fights crime with help from his friends at the Daily Planet.
   - title: "Lois & Clark: The New Adventures of Superman"
@@ -74,6 +81,7 @@ series:
     theme_color: rgba(242,191,32,1)
     genre: Adventure, Comedy, Drama, Romance, Sci-Fi
     rating: 6.8
+    cover: https://github.com/rodloboz/lw-fullstack/raw/master/topflix/images/loisandclark.jpg
     syllabus: |
       In addition to fighting evil, Superman has a burning romance with Lois Lane
       in both his identities.
