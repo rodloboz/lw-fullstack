@@ -1,7 +1,8 @@
 
 
 ```shell
-svn export https://github.com/rodloboz/lw-fullstack/trunk/instadogs/stylesheets tmp
+rm -rf app/assets/stylesheets
+svn export https://github.com/rodloboz/lw-fullstack/trunk/instadogs/stylesheets app/assets/stylesheets/
 ```
 
 # User Stories
