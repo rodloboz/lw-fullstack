@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Jimi Hendrix",
+    "image_url": "https://res.cloudinary.com/opratododia/image/upload/v1532732218/jimi_hendrix_kyegew.jpg",
+    "albums": [
+      {
+        "title": "Axis: Bold as Love",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.rollingstone.com%2Fassets%2F2014%2Flist%2F20-best-second-albums-of-all-time-20140324%2Fitems%2Fjimi-hendrix-axis-bold-as-love-1967-19691231%2F140385%2F_original%2F1035x1035-hendrix-1800-1395235216.jpg&f=1&nofb=1"
+      },
+      {
+        "title": "Are You Experienced",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Falldylan.com%2Fwp-content%2Fuploads%2F2013%2F09%2Fjimi-hendrix-Are_You_Experienced.jpg&f=1&nofb=1"
+      },
+      {
+        "title": "Electric Ladyland",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ffanart.tv%2Ffanart%2Fmusic%2F33b3c323-77c2-417c-a5b4-af7e6a111cc9%2Falbumcover%2Felectric-ladyland-4fb44990c5855.JPG&f=1&nofb=1"
+      }
+    ]
+  },
+
+  {
+    "name": "Gang Starr",
+    "image_url": "https://res.cloudinary.com/opratododia/image/upload/v1532732218/gang_starr_roc18v.jpg",
+    "albums": [
+      {
+        "title": "No More Mr. Nice Guy",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.playthishiphop.com%2Fwp-content%2Fuploads%2F2013%2F04%2FGang-Starr-No-More-Mr.-Nice-Guy.jpg&f=1&nofb=1"
+      },
+      {
+        "title": "Full Clip: A Decade of Gang Starr",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-udgzKlhg6yY%2FVYMOtnbj0fI%2FAAAAAAAAD_E%2F6UnqE94Nn2o%2Fs1600%2Ffull%252Bclip%252Bgang%252Bstarr.jpg&f=1&nofb=1"
+      },
+      {
+        "title": "Daily Operation",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-Rckg3SARUhg%2FT1l8FZk5jXI%2FAAAAAAAAGwI%2FNU_Ke_jMD-4%2Fs1600%2FGang%252BStarr%252B-%252BDaily%252BOperation%252B-.jpg&f=1&nofb=1"
+      }
+    ]
+  },
+
+  {
+    "name": "Refused",
+    "image_url": "https://res.cloudinary.com/opratododia/image/upload/v1532732218/refused_uj5ose.jpg",
+    "albums": [
+      {
+        "title": "Songs to Fan the Flames of Discontent",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fepitaph.com%2Fmedia%2Freleases%2F0045778104369.png.925x925_q90.jpg&f=1&nofb=1"
+      },
+      {
+        "title": "The Shape of Punk to Come",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmetalised.files.wordpress.com%2F2014%2F07%2Fthe-shape-of-punk-to-come-4fe0ad492338c.jpg&f=1&nofb=1"
+      }
+    ]
+  },
+
+  {
+    "name": "Cookin' Soul",
+    "image_url": "https://res.cloudinary.com/opratododia/image/upload/v1532732217/cookin_soul_nmjhbx.jpg",
+    "albums": [
+      {
+        "title": "The Remixes Vol. 1",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F_vtaM75QmW80%2FSdeevD1tCyI%2FAAAAAAAAAZ4%2FgeGom_GZRM8%2Fw1200-h630-p-k-no-nu%2FCookin%2BSoul%2B-%2BStreets%2BMost%2BWanted%2BRemixes%2BVol.%2B2.jpg&f=1&nofb=1"
+      },
+      {
+        "title": "Summer Waves",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flivedoor.blogimg.jp%2Fpppbitch%2Fimgs%2Fe%2F2%2Fe213dc8e.jpg&f=1&nofb=1"
+      }
+    ]
+
+  },
+
+  {
+    "name": "Fu Manchu",
+    "image_url": "https://res.cloudinary.com/opratododia/image/upload/v1532732218/fu_manchu_m6puwu.jpg",
+    "albums": [
+      {
+        "title": "In Search Of...",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffu-manchu.com%2Fwp-content%2Fuploads%2F2017%2F12%2Ffu_lp_03-in-search-of_1996.jpg&f=1&nofb=1"
+      },
+      {
+        "title": "The Action is Go",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftheobelisk.net%2Fobelisk%2Fwp-content%2Fuploads%2F2015%2F01%2Ffu-manchu-the-action-is-go.jpg&f=1&nofb=1"
+      }
+    ]
+  },
+
+  {
+    "name": "Little Brother",
+    "image_url": "https://res.cloudinary.com/opratododia/image/upload/v1532732247/littler_brother_ubz289.jpg",
+    "albums": [
+      {
+        "title": "The Minstrel Show",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffanart.tv%2Ffanart%2Fmusic%2Fb929c0c9-5de0-4d87-8eb9-365ad1725629%2Falbumcover%2Fthe-minstrel-show-5142446f2d0de.jpg&f=1&nofb=1"
+      }
+    ]
+  }
+]
